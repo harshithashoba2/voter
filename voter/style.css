@@ -1,0 +1,113 @@
+img{
+    height:170px;
+    
+}
+td button{
+    
+    background-color: grey;
+    border-color:blue;
+    border-width: 2px;
+    font-size: 15px;
+    color: white;
+    border-radius: 7px;
+    padding:4px 30px;
+}
+td button:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+.table1{
+    border:2px solid rgb(199, 196, 196);
+    padding:10px;
+    border-radius: 15px;
+}
+.danger{
+    color: red;
+}
+.table2{
+    width: 90%;
+    margin-left: 5%;
+    border-width: 2px solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding: 0px 12px 12px;
+    
+}
+.row1{
+    background-color: rgb(185, 185, 185);
+    
+    border:1px solid rgb(185, 185, 185);
+    border-radius: 10px;
+   
+}
+.row2{
+    background-color: rgb(233, 105, 122);
+
+    border: 1px solid rgb(233, 105, 122);
+    border-radius: 10px;
+}
+
+.main{
+    
+    background-color:rgb(247, 243, 243);
+    border:1px solid black;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+
+
+
+}
+.form2{
+    margin-left: 5%;
+}
+.edit2{
+    margin-left: 15%;
+}
+.topic{
+    background-color: rgb(233, 105, 122); 
+    padding: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 1px solid rgb(233, 105, 122);
+    border-radius: 10px;
+}
+.table3{
+    border-spacing: 30px;
+}
+.edit3
+{
+    margin-left: 2%;
+}
+.center
+{
+    margin-left: 45%;
+   
+}
+.sub{
+    background-color: rgb(12, 182, 12);
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+}
+.sub:hover{
+    background-color: green;
+    cursor: pointer;
+}
+.footer
+{
+    background-color: grey;
+    text-align: center;
+    color: white;
+    background-size: 30%;
+}
+.ed{
+  text-align: right;
+}
+select{
+    background-color: grey;
+    color: white;
+}
+select:hover{
+    background-color: rgb(83, 80, 80);   
+}
